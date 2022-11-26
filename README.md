@@ -1,4 +1,4 @@
-<h1 align="center">As-salamu alaykum I'm Md. Samiul Islam</h1>
+<h1 align="center">As-salamu alaykum, I'm Md. Samiul Islam.</h1>
 <h3 align="center">Being a Python Programmer, I'm Data Science addicted. Doing Master of Science (M.Sc) in Computer Science and Engineering (Major Data Science) at Daffodil International University.</h3>
 
 - 🌱 I’m currently learning **Data Science**
@@ -13,6 +13,8 @@
 <a href="https://linkedin.com/in/mesamiulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesamiulislam" height="30" width="40" /></a>
 <a href="https://kaggle.com/mesamiulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mesamiulislam" height="30" width="40" /></a>
 <a href="https://fb.com/mesamiulislamsaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mesamiulislamsaam" height="30" width="40" /></a>
+<a href="https://instagram.com/mesamiulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mesamiulislam" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/54gdAJyev2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/54gdAJyev2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
